@@ -1,0 +1,18 @@
+.c-page{
+  display:flex;
+  padding:10px;
+}
+.c-left{
+  flex:1;
+
+}
+.c-blur2{
+  background:var(--orange);
+
+}
+.c-right form{
+  display:flex;
+  flex-direction:column;
+  flex:1;
+  gap:0.2rem;
+}
